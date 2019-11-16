@@ -1,2 +1,2 @@
 # Investment Analysis
-This repository comprises of recent applications on Machine learning and Data Analysis domain
+This repository comprises of Spark funds case study which analyses data and derive beautiful insights from it
